@@ -1,0 +1,23 @@
+{
+  "name": "microServiceSite",
+  "version": "1.0.0",
+  "description": "a learning project to build a simple site around microservices with node and docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohritz/microServiceSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohritz/microServiceSite/issues"
+  },
+  "homepage": "https://github.com/ohritz/microServiceSite#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
